@@ -8,18 +8,7 @@
 #### <div align="center">🌐 Hỗ trợ đầy đủ hai ngôn ngữ: 🇻🇳 Tiếng Việt & 🇬🇧 English.</div>
 <br />
 
-## 📁 Danh mục
-- 🔧 [VN CORE Nền tảng chính (Monorepo)](https://github.com/VNCore-Framework/VNCore)
-- 🧩 [Các module & addon mở rộng](https://github.com/VNCore-Framework)
-- 🛠 [Công cụ CLI & tiện ích](https://github.com/VNCore-Framework)
-- 📚 [Tài liệu hướng dẫn](https://vncore.dev) *(sắp ra mắt)*
-
-> ❓Cần hỗ trợ? Hãy tham gia [Discord](https://discord.gg/zKc38ZSZDT) của chúng tôi hoặc theo dõi tài liệu hướng dẫn.
-
-<br/>
 ---
-
-## 🇬🇧 English Version
 
 ### <div align="center">Welcome to VN CORE</div>
 #### <div align="center">VN CORE is an open-source framework developed for both Vietnamese and global developer communities.</div>
