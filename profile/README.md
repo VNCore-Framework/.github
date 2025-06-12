@@ -28,9 +28,19 @@
 
 ## 🌐 Socials
 
-<a href="https://github.com/VNCore-Framework" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://discord.gg/zKc38ZSZDT" target="_blank">
-  <img src="https://img.shields.io/discord/000000000000000000?style=for-the-badge&logo=discord&logoColor=white&label=Discord" />
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+<a href="https://github.com/VNCore-Framework" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/groups/vncore" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook%20Group-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Website-coming%20soon-lightgrey?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Docs-coming%20soon-lightgrey?&style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
