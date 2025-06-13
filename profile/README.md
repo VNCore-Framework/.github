@@ -26,10 +26,6 @@
 > 
 <br/>
 
-## 📈 VNCore Github Stats
-
-![VNCore Github Stats](https://github-readme-stats.vercel.app/api?username=VNCore-Framework&show_icons=true&theme=gruvbox)
-
 ## 🌐 Socials
 
 <a href="https://discord.gg/zKc38ZSZDT" target="_blank">
