@@ -26,6 +26,11 @@
 > 
 <br/>
 
+## 📈 VNCore Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VNCore-Framework&show_icons=true&theme=gotham" alt="VNCore-Framework" />
+
+
 ## 🌐 Socials
 
 <a href="https://discord.gg/zKc38ZSZDT" target="_blank">
