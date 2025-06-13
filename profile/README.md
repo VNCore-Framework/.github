@@ -37,10 +37,10 @@
 <a href="https://www.facebook.com/groups/vncore" target="_blank">
   <img src="https://img.shields.io/badge/Facebook%20Group-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Website-coming%20soon-lightgrey?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://vncore.net" target="_blank">
+  <img src="https://img.shields.io/badge/Website-lightgrey?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Docs-coming%20soon-lightgrey?&style=for-the-badge&logo=readthedocs&logoColor=white" />
+<a href="https://vncore.gitbook.io" target="_blank">
+  <img src="https://img.shields.io/badge/Docs-lightgrey?&style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
