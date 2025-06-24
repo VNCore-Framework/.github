@@ -2,18 +2,18 @@
   <img src="https://raw.githubusercontent.com/VNCore-Framework/.github/refs/heads/main/profile/VNCore.png" align="center" height="100" />
 </div>
 
-### <div align="center">Chào mừng đến với VN CORE</div>
-#### <div align="center">VN CORE là một framework mã nguồn mở, được phát triển dành riêng cho cộng đồng Việt Nam và cả quốc tế.</div>
-#### <div align="center">💡 Nền tảng đa năng phục vụ cho FiveM Roleplay và các trình khởi chạy (launcher) tuỳ chỉnh.</div>
-#### <div align="center">🌐 Hỗ trợ đầy đủ hai ngôn ngữ: 🇻🇳 Tiếng Việt & 🇬🇧 English.</div>
+### Chào mừng đến với VN CORE</div>
+#### VN CORE là một framework mã nguồn mở, được phát triển dành riêng cho cộng đồng Việt Nam và cả quốc tế.</div>
+#### 💡 Nền tảng đa năng phục vụ cho FiveM Roleplay và các trình khởi chạy (launcher) tuỳ chỉnh.</div>
+#### 🌐 Hỗ trợ đầy đủ hai ngôn ngữ: 🇻🇳 Tiếng Việt & 🇬🇧 English.</div>
 <br />
 
 ---
 
-### <div align="center">Welcome to VN CORE</div>
-#### <div align="center">VN CORE is an open-source framework developed for both Vietnamese and global developer communities.</div>
-#### <div align="center">💡 A multi-purpose platform for FiveM Roleplay and custom game launchers.</div>
-#### <div align="center">🌐 Fully supports two languages: 🇻🇳 Vietnamese & 🇬🇧 English.</div>
+### Welcome to VN CORE</div>
+#### VN CORE is an open-source framework developed for both Vietnamese and global developer communities.</div>
+#### 💡 A multi-purpose platform for FiveM Roleplay and custom game launchers.</div>
+#### 🌐 Fully supports two languages: 🇻🇳 Vietnamese & 🇬🇧 English.</div>
 
 <br />
 
